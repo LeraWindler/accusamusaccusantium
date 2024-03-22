@@ -1,0 +1,24 @@
+{
+  "name": "accusamusaccusantium",
+  "version": "1.0.0",
+  "description": "Helpful atomic math functions, can be required() individually.",
+  "main": "all.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "author": "LouisaDeckow",
+  "license": "ISC",
+  "devDependencies": {
+    "grape": "0.1.x"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeraWindler/accusamusaccusantium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeraWindler/accusamusaccusantium.git/issues"
+  }
+}
